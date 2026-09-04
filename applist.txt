@@ -1,0 +1,37 @@
+$NAMESPACE$^Default
+$Apps$
+#C:\Program Files (x86)\Steam#
+#C:\Program Files (x86)\Overwolf#
+#C:\Program Files (x86)\Epic Games#
+#C:\Program Files\Oculus#
+#C:\Program Files\Unity#
+#C:\XboxGames#
+#C:\Program Files\Ubisoft#
+#C:\Program Files\EA Games#
+C:\Program Files (x86)\Overwolf\OverwolfLauncher.exe
+$Websites$
+steam.com
+store.steampowered.com
+GOG.com
+Battle.net
+itch.io
+poki.com
+fancade.com
+facebook.com
+youtube.com
+imgur.com
+instagram.com
+reddit.com
+discord.com
+ign.com
+gamespot.com
+whatsapp.com
+threads.com
+meta.com
+x.com
+tiktok.com
+snapchat.com
+linkedin.com
+pinterest.com
+twitch.com
+$END$
